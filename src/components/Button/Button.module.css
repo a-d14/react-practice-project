@@ -1,0 +1,18 @@
+.btn {
+    background: #4f005f;
+    padding: 10px 15px;
+    color: white;
+    border: 1px solid #4f005f;
+    border-radius: 5px;
+}
+
+.btn:hover,
+.btn:active {
+  background: #741188;
+  border-color: #741188;
+  cursor: pointer;
+}
+
+.btn:focus {
+    outline: none;
+}
